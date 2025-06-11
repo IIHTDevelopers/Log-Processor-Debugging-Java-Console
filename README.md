@@ -12,3 +12,4 @@ This project is to demonstrate how to process large log files while avoiding mem
 2. Run unit tests to observe failure using `mvn test`
 3. Final objective is to make test case pass.
 4. You can run test cases many times and refactor your code.
+5. Make sure you push the code to git before the final submission using shortcut : Cntrl + Shift + B
